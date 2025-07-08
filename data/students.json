@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Ameesha",
+        "reg_no": "REG-2025-0001",
+        "age": 21,
+        "email": "asdf@gmail.com",
+        "phone": "9876504321",
+        "course": "BCA"
+    },
+    {
+        "name": "Alfin",
+        "reg_no": "REG-2025-0002",
+        "age": 23,
+        "email": "alfin@gmail.com",
+        "phone": "9876543211",
+        "course": "BCOM"
+    },
+    {
+        "name": "Anjali Unni",
+        "reg_no": "REG-2025-0003",
+        "age": 22,
+        "email": "anjali@gmail.com",
+        "phone": "9876543212",
+        "course": "BSC"
+    },
+    {
+        "name": "Nikhil",
+        "reg_no": "REG-2025-0004",
+        "age": 23,
+        "email": "nikki@gmail.com",
+        "phone": "9087065641",
+        "course": "BTECH"
+    }
+]
